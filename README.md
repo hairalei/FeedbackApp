@@ -6,4 +6,6 @@ This is a feedback app using React that allows users to add, edit/update, and de
 
 https://feedbackapp-hd.netlify.app/
 
+https://feedback-app-wheat.vercel.app/
+
 ![Feedback app](Feedback%20App.gif)
